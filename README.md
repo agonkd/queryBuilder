@@ -55,5 +55,5 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 Agon Kadriu
 
-- LinkedIn: [John Doe](https://www.linkedin.com/in/agon-kadriu-425531235/)
-- Instagram: [@johndoe](https://www.instagram.com/agonkd/)
+- LinkedIn: [Agon Kadriu](https://www.linkedin.com/in/agon-kadriu-425531235/)
+- Instagram: [@agonkd](https://www.instagram.com/agonkd/)
